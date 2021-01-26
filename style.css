@@ -1,1 +1,27 @@
 *{padding:0;margin:0;}
+
+.container{
+    margin-bottom: 100px;
+}
+
+.carousel-bg{
+    background-color:#FEEAE9;
+    border-radius: 8px;
+}
+
+.carousel-item{
+    padding: 20px 40px;
+}
+
+.price{
+    color: #FF247A;
+} 
+
+button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
