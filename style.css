@@ -25,3 +25,48 @@ button{
     padding: 9px 25px;
     cursor: pointer;
 }
+
+.cat1{
+    background-color: orange;
+    border-radius: 6px;
+    color: white;
+    padding: 10px 30px;
+    cursor:pointer;
+    margin-bottom: 10px;
+}
+.cat2{
+    background-color: #D765CE;
+    border-radius: 6px;
+    color: white;
+    padding: 10px 30px;
+    cursor:pointer;
+    margin-bottom: 10px;
+}
+.cat3{
+    background-color: #3500FE;
+    border-radius: 6px;
+    color: white;
+    padding: 10px 30px;
+    cursor:pointer;
+    margin-bottom: 10px;
+}
+
+.card{
+    box-shadow: 5px 5px 10px rgb(226, 226, 226);
+    
+}
+.card:hover{
+    border-style: none;
+    background-color: #fffdf5;
+}
+h2{
+    margin-bottom: 30px;
+}
+.card-footer{
+    border-style: none;
+    background-color: white;
+    padding-bottom: 10px 20px;
+}
+#subscribe{
+    height: 400px;
+}
